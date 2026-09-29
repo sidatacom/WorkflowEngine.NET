@@ -155,3 +155,5 @@ $RECYCLE.BIN/
 # Mac desktop service store files
 .DS_Store
 Samples/MSSQL/.vs/
+Providers/OptimaJet.Workflow.SQLite/DLL/NETCORE/net10.0/OptimaJet.Workflow.SQLite.deps.json
+Providers/OptimaJet.Workflow.SQLite/DLL/NETCORE/net10.0/OptimaJet.Workflow.SQLite.dll
